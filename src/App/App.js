@@ -1,5 +1,5 @@
 import './App.css';
-import logo from "../sk.png"
+import logo from "../asset/sk.png"
 import Todos from "../componets/Todos";
 import SortButtens from "../componets/SortButtens";
 import {useState, useEffect} from "react";

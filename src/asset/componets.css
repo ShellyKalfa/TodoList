@@ -8,6 +8,12 @@
     flex-direction: column;
     background-color:#533732;
     color:antiquewhite ;
+    cursor: default;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 .containerTaskDiv{
     display: flex;

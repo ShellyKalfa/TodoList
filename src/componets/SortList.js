@@ -33,7 +33,7 @@ function SortList({data,update,remove}) {
                 todo.hasItBeenDone?
                   <CompletedTask task={todo}
                                  index={index}
-                                 handleRemove={remove} />:
+                                 handleRemove={handleRemove} />:
                   <UncompletedTask task={todo}
                                    index={index}
                                    handleCheck={handleCheck}
