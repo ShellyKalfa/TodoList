@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 10vmin;
+  width: 10vmin;
+  pointer-events: none;
+  position: absolute;
+  left: 0;
+}
+
+.appHeader{
+  height: 10vmin;
+  width: 100%;
+  background-color: #533732;
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+}
+.inputInsertToDo {
+  width: 80vmin;
+  padding: 1vw;
+  border-radius: 20vmin;
+  font-size: 2rem;
+  margin: 1rem;
+}
+
+.buttonInsertToDo {
+  padding: 1vw;
+  border-radius: 29vmin;
+  font-size: 2rem;
+  margin-left: 2rem;
+  background-color: #533732;
+  color: white;
+}
